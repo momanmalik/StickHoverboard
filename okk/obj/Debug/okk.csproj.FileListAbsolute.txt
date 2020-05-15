@@ -1,0 +1,42 @@
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\bin\Debug\okk.exe.config
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.Form1.resources
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.Game.resources
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.Properties.Resources.resources
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.csproj.GenerateResource.Cache
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\bin\Debug\okk.exe
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\bin\Debug\okk.pdb
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.exe
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.pdb
+c:\users\moman\documents\visual studio 2012\Projects\okk\okk\obj\Debug\okk.csprojResolveAssemblyReference.cache
+H:\Computer Science\final project\okk\okk\bin\Debug\okk.exe.config
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.exe
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.pdb
+H:\Computer Science\final project\okk\okk\bin\Debug\okk.exe
+H:\Computer Science\final project\okk\okk\bin\Debug\okk.pdb
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.csprojResolveAssemblyReference.cache
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.Form1.resources
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.Game.resources
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.Properties.Resources.resources
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.csproj.GenerateResource.Cache
+H:\Computer Science\final project\okk\okk\obj\Debug\okk.TimHortons.resources
+C:\Users\Moman\Documents\final project\okk\okk\bin\Debug\okk.exe.config
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.exe
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.pdb
+C:\Users\Moman\Documents\final project\okk\okk\bin\Debug\okk.exe
+C:\Users\Moman\Documents\final project\okk\okk\bin\Debug\okk.pdb
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.csprojResolveAssemblyReference.cache
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Game.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Properties.Resources.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.TimHortons.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.csproj.GenerateResource.Cache
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.CreateCharacter.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.badHome.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.laGym.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Help.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Hospital.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.University.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Bank.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.PoliceStation.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.Google.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.TheBay.resources
+C:\Users\Moman\Documents\final project\okk\okk\obj\Debug\okk.STICKRPG.resources
